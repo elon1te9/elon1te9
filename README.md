@@ -1,75 +1,56 @@
-# Привет, я Владимир Смирнов
+# Привет, я Владимир Смирнов 👋
 
-Я студент-программист, развиваюсь в направлении .NET/backend-разработки и ищу возможность пройти производственную практику или стажировку.
+Я студент-программист, развиваюсь в направлении .NET/backend-разработки 💻 и ищу возможность пройти производственную практику или стажировку.
 
-## Обо мне
+## 👨‍💻 Обо мне
 
 - Изучаю разработку на C# и .NET
 - Делаю учебные проекты с ASP.NET Core Web API, Blazor и PostgreSQL
 - Имею базовые знания HTML/CSS
 - Работал с Flutter/Dart и Unity на уровне учебных проектов
-- Сейчас начинаю изучать Python и интересуюсь AI-технологиями
+- Начинаю изучать Python и интересуюсь AI-технологиями
 - Хочу получить первый практический опыт в IT-команде
 
-## Основной стек
+## 🛠 Основной стек
 
 - C#
 - ASP.NET Core Web API
+- REST API
 - Blazor / Blazor WebAssembly
 - Entity Framework Core
 - PostgreSQL
 - HTML / CSS
 - Git / GitHub
 
-## Дополнительные навыки
+## 📚 Дополнительные навыки
 
 - Flutter / Dart
 - Unity / C#
-- Python
-- REST API
 - JWT authentication
-- Работа с базами данных
+- Основы проектирования баз данных
 - Базовое понимание ООП
 
-## Проекты
+## 🚀 Проекты
 
-### GuessWord
+### 🎮 GuessWord
 
-[Открыть репозиторий](https://github.com/elon1te9/guess-word)
+Учебный fullstack-проект: веб-игра по угадыванию слова с подсказками по смысловой близости.
 
-Веб-приложение для игры в угадывание слов.
+**Стек:** ASP.NET Core, Blazor WebAssembly, PostgreSQL, pgvector, SignalR, JWT, Docker  
+**Репозиторий:** https://github.com/elon1te9/guess-word
 
-**Стек:** C#, ASP.NET Core, Blazor WebAssembly, PostgreSQL, SignalR, JWT, Docker
+### 🐾 VetClinic
 
-Что реализовано:
+Учебная система для автоматизации работы ветеринарной клиники.
 
-- регистрация и авторизация пользователей;
-- работа с базой данных;
-- API для взаимодействия клиента и сервера;
-- real-time взаимодействие через SignalR;
-- контейнеризация через Docker.
+**Стек:** ASP.NET Core Web API, Blazor WebAssembly, Entity Framework Core, PostgreSQL, ASP.NET Identity, JWT, SignalR  
+**Репозиторий:** https://github.com/elon1te9/vet-clinic
 
-### VetClinic
-
-[Открыть репозиторий](https://github.com/elon1te9/vet-clinic)
-
-Система для управления ветеринарной клиникой.
-
-**Стек:** C#, ASP.NET Core Web API, Blazor WebAssembly, Entity Framework Core, PostgreSQL, JWT
-
-Что реализовано:
-
-- роли пользователей;
-- работа с клиентами, питомцами и записями;
-- backend API;
-- подключение к PostgreSQL;
-- клиентская часть на Blazor.
-
-## Цель
+## 🎯 Цель
 
 Найти место для производственной практики или стажировки, где я смогу применять знания на реальных задачах, развиваться как разработчик и быть полезным команде.
 
-## Контакты
+## 📫 Контакты
 
 - Email: smirnov.dev19@mail.ru
 - Telegram: https://t.me/eloniten
