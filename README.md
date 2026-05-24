@@ -35,6 +35,8 @@
 
 ### GuessWord
 
+[Открыть репозиторий](https://github.com/elon1te9/GuessWord)
+
 Веб-приложение для игры в угадывание слов.
 
 **Стек:** C#, ASP.NET Core, Blazor WebAssembly, PostgreSQL, SignalR, JWT, Docker
@@ -49,6 +51,8 @@
 
 ### VetClinic
 
+[Открыть репозиторий](https://github.com/elon1te9/VetClinic)
+
 Система для управления ветеринарной клиникой.
 
 **Стек:** C#, ASP.NET Core Web API, Blazor WebAssembly, Entity Framework Core, PostgreSQL, JWT
@@ -62,6 +66,8 @@
 - клиентская часть на Blazor.
 
 ### SwirlApp
+
+[Открыть репозиторий](https://github.com/elon1te9/SwirlApp)
 
 Приложение для изучения английского языка.
 
