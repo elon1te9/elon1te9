@@ -35,7 +35,7 @@
 
 ### GuessWord
 
-[Открыть репозиторий](https://github.com/elon1te9/GuessWord)
+[Открыть репозиторий](https://github.com/elon1te9/guess-word)
 
 Веб-приложение для игры в угадывание слов.
 
@@ -51,7 +51,7 @@
 
 ### VetClinic
 
-[Открыть репозиторий](https://github.com/elon1te9/VetClinic)
+[Открыть репозиторий](https://github.com/elon1te9/vet-clinic)
 
 Система для управления ветеринарной клиникой.
 
